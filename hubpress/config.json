@@ -2,9 +2,14 @@
   "meta": {
     "username": "HieuMeo",
     "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": "hieumeo.com"
   },
+  "site": {
+    "title": "Hieu Nguyen's Blog"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
